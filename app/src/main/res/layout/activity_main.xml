@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:padding="16dp"
     android:gravity="center"
+    android:id="@+id/main"
     android:background="@color/white">
 
     <!-- Uygulama Başlığı -->
@@ -48,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="Giriş Yap"
         android:padding="12dp"
-        android:backgroundTint="@color/purple_500"
+        android:backgroundTint="@color/black"
         android:textColor="@color/white"
         android:textStyle="bold" />
 
